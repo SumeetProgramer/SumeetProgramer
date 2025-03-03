@@ -1,8 +1,21 @@
-- 👋 Hey, I’m @SumeetProgramer
-- 👀 I’m interested in learn stuff i'm trying to figure out that i should  try the programming or not...
-- 🌱 I’m currently starting my learning from python language ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me mail .....id :bahanbal.sumeet@icloud.com...
+Here's an improved version of your GitHub profile README that keeps your original tone but makes it more engaging and professional:  
+
+---
+
+👋 Hey, I'm Sumeet!  
+
+🚀 ** Enthusiastic Develoment | Exploring the World of Code **  
+
+ * About Me  
+- 👀 Currently figuring out if programming is my true calling.  
+- 🌱 Learning **HTML** as my starting point in coding.  
+- 💡 Curious about tech, problem-solving, and building cool stuff.  
+- 💞️ Open to collaboration once I level up my skills!  
+
+### 📫 Get in Touch  
+📧 Email: (mailto : sumeetbahanbal@gmail.com)  
+
+---
 
 <!---
 SumeetProgramer/SumeetProgramer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
