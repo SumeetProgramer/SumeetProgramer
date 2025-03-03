@@ -1,5 +1,3 @@
-Here's an improved version of your GitHub profile README that keeps your original tone but makes it more engaging and professional:  
-
 ---
 
 👋 Hey, I'm Sumeet!  
